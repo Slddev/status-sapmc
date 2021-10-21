@@ -1,22 +1,22 @@
 [
   {
     "name": "SapMC Website",
-    "url": "https://www.sapmc.ga",
-    "icon": "https://favicons.githubusercontent.com/www.sapmc.ga",
+    "url": "www.sapmc.ga",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sap-mc-website",
     "status": "down",
-    "uptime": "3.42%",
-    "uptimeDay": "3.42%",
-    "uptimeWeek": "3.42%",
-    "uptimeMonth": "3.42%",
-    "uptimeYear": "3.42%",
-    "time": 142,
-    "timeDay": 142,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
+    "time": 1438,
+    "timeDay": 1438,
+    "timeWeek": 1438,
+    "timeMonth": 1438,
+    "timeYear": 1438,
     "dailyMinutesDown": {
-      "2021-10-21": 0
+      "2021-10-21": 18
     }
   },
   {
