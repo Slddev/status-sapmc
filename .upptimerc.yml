@@ -5,7 +5,10 @@ repo: status-sapmc # The name of this repository
 sites:
   - name: Website
     url: https://www.sapmc.ga
-  - name: SMP 
+  - name: SMP
+    check: "tcp-ping"
+    url: smp.sapmc.ga
+    port: 25741
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
