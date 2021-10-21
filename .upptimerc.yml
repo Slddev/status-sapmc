@@ -13,8 +13,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.discordapp.com/attachments/814882749629988864/844792873257402448/file.jpeg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**SapMC** is a Minecraft network made for you."
+  introMessage: "This status page is only limited to the website. If you wish to see the server's status visit the [website](https://www.sapmc.ga)"
   navbar:
     - title: Status
       href: /
