@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.sapmc.ga",
     "slug": "website",
     "status": "down",
-    "uptime": "0.67%",
-    "uptimeDay": "0.67%",
-    "uptimeWeek": "0.67%",
-    "uptimeMonth": "0.67%",
-    "uptimeYear": "0.67%",
-    "time": 680,
-    "timeDay": 680,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
+    "time": 545,
+    "timeDay": 545,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2021-10-21": 5
+      "2021-10-21": 7
     }
   }
 ]
