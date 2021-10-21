@@ -14,7 +14,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.sapmc.ga
-  # baseUrl: /your-repo-name
+  themeUrl: https://cdn.jsdelivr.net/gh/raiyansarker/status-raiyansarker@v1.1/assets/universe.css
   logoUrl: https://cdn.discordapp.com/attachments/798918354172641310/892978381266751498/SapMC_Logo.png
   name: SapMC
   introTitle: "**SapMC** is a Minecraft network made for you."
