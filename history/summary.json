@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sap-mc-website",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 935,
-    "timeDay": 935,
-    "timeWeek": 935,
-    "timeMonth": 935,
-    "timeYear": 935,
-    "dailyMinutesDown": {
-      "2021-10-22": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 958,
+    "timeDay": 642,
+    "timeWeek": 958,
+    "timeMonth": 958,
+    "timeYear": 958,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMP Server",
