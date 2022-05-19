@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sap-mc-website",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.72%",
     "time": 1871,
-    "timeDay": 1038,
-    "timeWeek": 1697,
-    "timeMonth": 1847,
+    "timeDay": 1784,
+    "timeWeek": 1674,
+    "timeMonth": 1845,
     "timeYear": 1871,
     "dailyMinutesDown": {
       "2022-03-14": 111,
@@ -47,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "smp-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "4.34%",
+    "uptimeWeek": "86.33%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "99.54%",
     "time": 147,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-05-18": 0
+      "2022-05-19": 117,
+      "2022-05-18": 1260
     }
   }
 ]
