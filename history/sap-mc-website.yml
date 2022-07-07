@@ -1,7 +1,7 @@
 url: www.sapmc.ga
-status: up
-code: 200
-responseTime: 1951
-lastUpdated: 2022-07-06T23:17:05.619Z
+status: down
+code: 502
+responseTime: 4157
+lastUpdated: 2022-07-07T11:42:53.428Z
 startTime: Thu Oct 21 2021 13:18:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
